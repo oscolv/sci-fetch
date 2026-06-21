@@ -61,8 +61,7 @@ In the output folder:
 
 This skill downloads **only legally open-access** PDFs (resolved by OpenAlex).
 Results without an open-access PDF are **listed with their DOI and link** so you
-can obtain them through your institution — they are never downloaded from
-shadow libraries such as Sci-Hub.
+can obtain them through your institution.
 
 **Yield depends on the field.** Papers on arXiv / PubMed Central / institutional
 repositories expose a directly downloadable PDF and are fetched reliably (a
