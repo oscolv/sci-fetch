@@ -49,6 +49,6 @@ sci-fetch builds the legal full-text corpus; storm-article cites it.
 ## Notes
 
 - Source: OpenAlex (`api.openalex.org`) — free, no API key, no login.
-- **Open-access only.** Papers without a legal OA PDF are listed but never
-  downloaded from shadow libraries. This skill does not use Sci-Hub.
+- **Open-access only.** Papers without a legal open-access PDF are listed (with
+  their DOI) but never downloaded.
 - Requires Node.js ≥ 18 (uses the built-in global `fetch`).

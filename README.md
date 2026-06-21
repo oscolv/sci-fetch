@@ -8,7 +8,7 @@ open-access PDFs to a folder, and writes a manifest.
 It's the legal, native companion to
 [storm-article](https://github.com/oscolv/storm-article): `sci-fetch` collects
 the papers, `storm-article --refs` cites them at full text — closing the
-"paywalled Q1" gap without shadow libraries.
+"paywalled Q1" gap with open-access sources.
 
 ```
 sci-fetch "CRISPR base editing" --from-year 2018 --out ~/crispr-corpus
